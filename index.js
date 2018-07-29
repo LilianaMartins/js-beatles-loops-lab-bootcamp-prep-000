@@ -20,5 +20,5 @@ function johnLennonFacts(facts) {
     factsOutput.push(`${facts[i]}!!!`)
     i++
   }
-  
+
 }
